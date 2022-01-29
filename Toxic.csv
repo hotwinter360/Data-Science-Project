@@ -1,0 +1,6 @@
+,Nitrogen dioxide(averaged over 1 hpur,Air quality,pm2.5
+0,less than 60,Good,0 to 12.0
+1,60-120,Fair,12.1 to 35.4
+2,120-180,Poor,35.5 to 55.4
+3,180-360,Very poor,55.5 to 150.4
+4,over 360,Extremely poor,
